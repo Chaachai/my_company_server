@@ -1,6 +1,6 @@
 # my_company_server
 
-Le projet "Gestion des salariés" réalisé avec RMI.
+Le projet "Gestion des salariés" réalisé avec JavaFX et RMI.
 
 1- Clonez la patie client du projet projet par la commande:
 git clone https://github.com/Chyadmi/my_company_client: 
