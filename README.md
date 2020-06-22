@@ -12,6 +12,15 @@ git clone https://github.com/Chaachai/my_company_server
 
 4- Démarrez le serveur, puis le client
 
+5- Pour pouvoir se connecter en tant qu'admin, utilisez:
+ * Username: chaachai
+ * Password: chaachai
+ 
+ 6- Pour pouvoir se connecter en tant que salarié, utilisez:
+ * Username: isaac
+ * Password: isaac
+ 
+
 ![alt text](https://i.ibb.co/C1T1ydM/1.png)
 
 
